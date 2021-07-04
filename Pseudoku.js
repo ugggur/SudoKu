@@ -1,7 +1,8 @@
 // Ugur Caglar Submission for Coursework Assignment: Sudoku assignment
 // Solution is below functional as JS Code demonstrating the concepts of the lecture so far
 // Comments are added e.g. TASK 1. demonstrating the steps and logic. You may find the completion of all the Tasks below.
-// Main starts at the end of the code around line 300
+// Main starts at the end of the code on line 300
+// Code is available on Github https://github.com/ugggur/SudoKu/blob/main/Pseudoku.js
 
 // TASK 1.1 Creating a vector with numbers 1,2,3,4 randomly sorted. 
 var vector = [0,0,0,0];
